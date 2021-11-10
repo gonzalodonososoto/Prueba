@@ -1,0 +1,17 @@
+label {
+    font-size: 20px;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  ul li {
+    list-style-type: none;
+  }
+  
+  form {
+    min-height: 80%;
+  }
